@@ -1,6 +1,6 @@
 # Hi there, I'm Amir Farzaneh 👋
 
-**Web Designer & Developer** | WordPress Expert & PHP Specialist | Creating stunning and functional websites
+**Full Stack Developer** | Next.js & Node.js Specialist | 4+ Years Experience | Building Scalable Web Apps & SaaS Products
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amir-bebest&color=0e75b6&style=flat-square&label=Profile+Views)
 
@@ -8,52 +8,65 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building custom **WordPress websites**, themes, and plugins
-- 🌱 Learning **Next.js, TypeScript, and modern JavaScript frameworks**
-- 💼 Open to **freelance web development** and full-time opportunities
+- 🔭 Currently focused on building **scalable web applications** and **SaaS products**
+- 🌱 Deeply working with **Next.js, Node.js, TypeScript** and modern full-stack technologies
+- 💼 Open to **freelance opportunities**, collaborations, and full-time positions
 - 📍 Based in **Tehran, Iran**
-- 🎯 Passionate about delivering fast, accessible, and beautiful web experiences
+- 🎯 Passionate about turning ideas into reliable, maintainable and high-performance products
 
-### 🛠️ Technologies & Tools
+My journey started with **WordPress** development (custom themes & plugins) and evolved into modern full-stack development.
 
-**Frontend & Design:**
-- HTML5, CSS3, JavaScript
-- Tailwind CSS, Bootstrap
-- React / Next.js (in progress)
+---
 
-**Backend & CMS:**
-- **PHP** (Advanced)
-- **WordPress** (Expert) — Custom Themes, Plugins, ACF, WooCommerce, Elementor
-- MySQL
+### 🛠️ Core Technologies
+
+**Primary Stack:**
+- **Next.js** (App Router)
+- **Node.js**
+- **TypeScript**
+- **React**
+- **Tailwind CSS**
+
+**Backend & Database:**
+- Node.js / REST APIs
+- **PostgreSQL**
+- PHP (Previous)
 
 **Tools & Others:**
 - Git & GitHub
-- cPanel, Vercel
-- Figma / Adobe XD
+- Linux & Server Management
+- Cloudflare
 - SEO & Performance Optimization
+- Vercel
+
+**Previous Expertise:**
+- Custom WordPress Development (Themes & Plugins)
+- PHP & MySQL
+- WooCommerce & ACF
 
 ---
 
 ### 🚀 Featured Projects
 
-**1. [بازی‌سازان — bazisazan.com](https://bazisazan.com/)**
-   - طراحی و توسعه کامل سایت فروشگاهی تجهیزات تفریحی کودکان و مراکز سرگرمی
-   - شامل محصولات متنوع پلی‌گراند، سافت‌پلی، تجهیزات ورزشی پارکی و خانه بازی
-   - فوکوس روی UI/UX جذاب و تجربه کاربری عالی
+**1. [Bazisazan — bazisazan.com](https://bazisazan.com/)**
+   - Modern full-stack e-commerce platform for children's playground and recreational equipment
+   - Built with Next.js + Node.js
 
-**2. [سوینا — sevinagroup.com](https://sevinagroup.com/)**
-   - پلتفرم صوتی تخصصی **سینمای ویژه نابینایان**
-   - ارائه نسخه‌های صوتی توضیح‌دار فیلم‌ها و سریال‌ها برای افراد نابینا و کم‌بینا
-   - پروژه‌ای با هدف دسترسی‌پذیری محتوا و تأثیر اجتماعی قوی
+**2. [Sevinagroup — sevinagroup.com](https://sevinagroup.com/)**
+   - Specialized audio platform for blind and visually impaired people (Special Cinema)
+   - Built with Next.js + Node.js
 
-*(پروژه‌های بیشتر رو بعداً اضافه می‌کنیم)*
+**3. [Hosein Soltani — hoseinsoltani.com](https://hoseinsoltani.com/)**
+   - Modern personal portfolio website
+   - Built with Next.js
+
+*(More projects coming soon...)*
 
 ---
 
 ### 📊 GitHub Stats
 
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-bebest&show_icons=true&theme=radical&locale=fa)
-
+![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-bebest&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-bebest&layout=compact&theme=radical)
 
 ---
@@ -62,8 +75,8 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amir-bebest/)
 - 💬 [Stack Overflow](https://stackoverflow.com/users/27573756/amir-bebest)
-- 📸 [Instagram](https://www.instagram.com/amir_bebest)
+- 📧 amirbebest@gmail.com
 
 ---
 
-**Always learning • Always building beautiful & accessible websites.**
+**Always learning • Always building meaningful software.**
