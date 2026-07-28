@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Next.js & Node.js Specialist | 4+ Years Experience | Building Scalable Web Apps & SaaS Products
 
-[portfolio]([https://komarev.com/ghpvc/?username=amir-bebest&color=0e75b6&style=flat-square&label=Profile+Views](https://amir-bebest.github.io/whos-bebest/))
+![portfolio]([https://komarev.com/ghpvc/?username=amir-bebest&color=0e75b6&style=flat-square&label=Profile+Views](https://amir-bebest.github.io/whos-bebest/))
 
 ---
 
