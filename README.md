@@ -65,7 +65,7 @@ My journey started with **WordPress** development (custom themes & plugins) and 
 
 ### 📊 GitHub Stats
 
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-bebest&show_icons=true&theme=radical)
+![Amir's GitHub Stats](https://amir-bebest.github.io/whos-bebest/)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-bebest&layout=compact&theme=radical)
 
 ---
