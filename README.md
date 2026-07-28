@@ -2,8 +2,7 @@
 
 **Full Stack Developer** | Next.js & Node.js Specialist | 4+ Years Experience | Building Scalable Web Apps & SaaS Products
 
-![portfolio]([https://amir-bebest.github.io/whos-bebest/])
-
+https://amir-bebest.github.io/whos-bebest/
 ---
 
 ### 👨‍💻 About Me
