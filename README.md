@@ -1,81 +1,135 @@
 # Hi there, I'm Amir Farzaneh 👋
 
-**Full Stack Developer** | Next.js & Node.js Specialist | 4+ Years Experience | Building Scalable Web Apps & SaaS Products
+**Junior AI Engineer | LLM Applications & RAG | Python | LangChain | Hugging Face | Backend Development**
 
-https://amir-bebest.github.io/whos-bebest/
+[🌐 Portfolio](https://amir-bebest.github.io/whos-bebest/) · [💼 LinkedIn](https://www.linkedin.com/in/amir-bebest/)
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently focused on building **scalable web applications** and **SaaS products**
-- 🌱 Deeply working with **Next.js, Node.js, TypeScript** and modern full-stack technologies
-- 💼 Open to **freelance opportunities**, collaborations, and full-time positions
-- 📍 Based in **Tehran, Iran**
-- 🎯 Passionate about turning ideas into reliable, maintainable and high-performance products
+I'm a Software Developer transitioning into **AI Engineering**, with a strong focus on building practical applications powered by Large Language Models (LLMs), Generative AI, and Retrieval-Augmented Generation (RAG).
 
-My journey started with **WordPress** development (custom themes & plugins) and evolved into modern full-stack development.
+With 4+ years of experience in web and software development, I've built a solid foundation in backend systems, API integration, databases, and software architecture.
+
+Currently, I'm focused on combining AI models with real-world data and software systems to build useful, reliable, and intelligent applications.
+
+- 🤖 Exploring **LLM Applications, RAG Systems, and AI Agents**
+- 🐍 Working with **Python, LangChain, and Hugging Face**
+- 🔎 Building with **Embeddings, Semantic Search, and Vector Databases**
+- ⚙️ Integrating LLMs through **Groq API** and building backend services with **FastAPI**
+- 🔧 Experienced in **Node.js, Next.js, TypeScript, and REST APIs**
+- 🌱 Continuously learning and building practical AI projects
+- 💼 Open to **Junior AI Engineer, LLM Engineer, and AI Developer opportunities**
 
 ---
 
-### 🛠️ Core Technologies
+### 🧠 AI & Machine Learning Technologies
 
-**Primary Stack:**
-- **Next.js** (App Router)
-- **Node.js**
-- **TypeScript**
-- **React**
-- **Tailwind CSS**
+**LLM & Generative AI**
+- Large Language Models (LLMs)
+- Generative AI Applications
+- Groq API & LLM Integration
+- Prompt Engineering
+- Conversation History & Context Management
 
-**Backend & Database:**
-- Node.js / REST APIs
-- **PostgreSQL**
-- PHP (Previous)
+**RAG & Information Retrieval**
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Document Processing & PDF Extraction
+- Text Chunking
+- Embeddings
+- Semantic Search
+- ChromaDB
 
-**Tools & Others:**
+**NLP & AI Tools**
+- Hugging Face Transformers
+- Text Classification
+- Zero-Shot Classification
+- AI Agents & Tool Calling
+- n8n & Workflow Automation
+
+---
+
+### ⚙️ Software Engineering
+
+**Languages & Frameworks**
+- Python
+- JavaScript & TypeScript
+- Node.js
+- Next.js
+- FastAPI
+- PHP
+
+**Backend & Databases**
+- REST APIs
+- PostgreSQL
+- MySQL
+- SQLite
+- Authentication & Authorization
+
+**Tools & Infrastructure**
 - Git & GitHub
-- Linux & Server Management
+- Linux
+- Docker (Learning)
 - Cloudflare
-- SEO & Performance Optimization
 - Vercel
-
-**Previous Expertise:**
-- Custom WordPress Development (Themes & Plugins)
-- PHP & MySQL
-- WooCommerce & ACF
+- Server Management
 
 ---
 
 ### 🚀 Featured Projects
 
-**1. [Bazisazan — bazisazan.com](https://bazisazan.com/)**
-   - Modern full-stack e-commerce platform for children's playground and recreational equipment
-   - Built with Next.js + Node.js
+**1. [Travel Baman — AI Travel Assistant](https://travel-baman.vercel.app/)**
 
-**2. [Sevinagroup — sevinagroup.com](https://sevinagroup.com/)**
-   - Specialized audio platform for blind and visually impaired people (Special Cinema)
-   - Built with Next.js + Node.js
+An AI-powered travel assistant designed to transform natural-language requests into personalized travel plans.
 
-**3. [Hosein Soltani — hoseinsoltani.com](https://hoseinsoltani.com/)**
-   - Modern personal portfolio website
-   - Built with Next.js
+- Python & FastAPI
+- Groq API
+- SQLite
+- Wikipedia API
+- Conversation Context Management
 
-*(More projects coming soon...)*
+**2. [Barmane Baman — Task Management App](https://barmane-baman.vercel.app/)**
+
+A web application for managing daily tasks, schedules, reminders, and personal plans.
+
+**3. [Bazisazan](https://bazisazan.com/)**
+
+A business platform migrated from WordPress to a custom architecture using Next.js and Node.js, with a focus on performance and scalability.
+
+**4. [Sevina Group](https://sevinagroup.com/)**
+
+A digital platform supporting accessible audio and cultural content for blind and visually impaired users.
+
+---
+
+### 📚 Currently Learning & Building
+
+- Advanced RAG architectures
+- Vector Search & Retrieval Optimization
+- LLM Evaluation
+- AI Agent Workflows
+- LangGraph
+- Production-ready AI Applications
 
 ---
 
 ### 📊 GitHub Stats
 
-![Amir's GitHub Stats](https://amir-bebest.github.io/whos-bebest/)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-bebest&layout=compact&theme=radical)
+![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-bebest&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-bebest&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amir-bebest/)
+- 🌐 [Portfolio](https://amir-bebest.github.io/whos-bebest/)
 - 💬 [Stack Overflow](https://stackoverflow.com/users/27573756/amir-bebest)
 - 📧 amirbebest@gmail.com
 
 ---
 
-**Always learning • Always building meaningful software.**
+**Always Learning · Always Building · Turning Ideas into Intelligent Applications.**
